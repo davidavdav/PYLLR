@@ -1,3 +1,9 @@
+# Example
+
+Note: these examples are for the original repository PYLLR.  For `lrreval` steps 1--2 below should be replaced by
+```
+pip install llreval
+```
 
 This directory contains code to reproduce all figures for the InterSpeech 2021 paper
 
@@ -22,7 +28,7 @@ To reproduce the figures in the paper, follow these steps:
   |-- final_plots.py
   |-- scores
   |   |- dc_plda
-  |   |- plda 
+  |   |- plda
 
 4.  Run the `final_plots.py` script to reproduce the figures in pdf format.
 

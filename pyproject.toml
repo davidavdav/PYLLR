@@ -3,10 +3,11 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pyllr"
-version = "0.0.2"
+name = "llreval"
+version = "0.0.3"
 authors = [
   { name="Niko Brummer", email="niko.brummer@gmail.com" },
+  { name="David A. van Leeuwen", email="david.vanleeuwen@gmail.com" },
 ]
 description = "Python package for the log-likelihood-ratio"
 license = { file = "LICENSE" }
@@ -20,5 +21,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/bsxfan/PYLLR"
-"Bug Tracker" = "https://github.com/bsxfan/PYLLR/issues"
+"Homepage" = "https://github.com/davidavdav/llreval"
+"Bug Tracker" = "https://github.com/davidavdav/llreval/issues"

@@ -2,9 +2,9 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 
-from pyllr.plotting import  BayesErrorPlot
-from pyllr.quick_eval import scoreslabels_2_eer
-from pyllr.utils import tarnon_2_scoreslabels
+from llreval.plotting import  BayesErrorPlot
+from llreval.quick_eval import scoreslabels_2_eer
+from llreval.utils import tarnon_2_scoreslabels
 
 
 
